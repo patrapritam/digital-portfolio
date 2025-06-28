@@ -10,11 +10,6 @@ const Projects = () => {
       description: 'Built a full-stack e-commerce website with shopping cart, payment gateway, and admin panel.',
       link: 'https://github.com/yourgithub/ecommerce-app'
     },
-    {
-      title: 'Chat App',
-      description: 'Real-time chat application using Socket.io and Node.js backend.',
-      link: 'https://github.com/yourgithub/chat-app'
-    }
   ];
 
   return (
