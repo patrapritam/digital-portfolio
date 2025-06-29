@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    
+
     <section id="contact" className="py-16 px-6 bg-white text-gray-800">
       <div className="max-w-xl mx-auto text-center">
         <h2 className="text-4xl font-bold mb-6">Contact Me</h2>
@@ -13,7 +13,7 @@ const Contact = () => {
             Send Message
           </button>
         </form>
-        <p className="mt-6 text-sm text-gray-500">Or email me at: <a className="underline" href="mailto:pritam@example.com">pritam@example.com</a></p>
+        <p className="mt-6 text-sm text-gray-500">Or email me at: <a className="underline" href="pritampatra.fb@gmail.com">pritampatra.fb@gmail.com</a></p>
       </div>
     </section>
   );
